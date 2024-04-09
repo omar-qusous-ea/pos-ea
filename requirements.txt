@@ -1,0 +1,4 @@
+torch==1.13.1
+git+https://github.com/flairNLP/flair.git@073b33972a4c7d77ed751fb4643a3310bbafe049
+spacy
+colorhash
